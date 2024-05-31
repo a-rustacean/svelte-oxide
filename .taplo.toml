@@ -1,7 +1,0 @@
-include = ["Cargo.toml", "crates/*/*.toml"]
-
-[formatting]
-align_entries = true
-column_width = 120
-align_comments = false
-reorder_arrays = true
